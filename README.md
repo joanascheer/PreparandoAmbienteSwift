@@ -3,7 +3,7 @@
 ## Link do repositório
 
 **GitHub:** coloque aqui o link do projeto  
-`[https://github.com/seu-usuario/seu-repositorio](https://github.com/joanascheer/PreparandoAmbienteSwift)`
+`https://github.com/joanascheer/PreparandoAmbienteSwift`
 
 ---
 
